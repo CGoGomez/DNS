@@ -21,4 +21,4 @@ sudo apt install bind9
 ```
 Esta es la parte principal, a partir de aquí toodo irá cambiando.
 
-[parte1.md](Archivos Principales)
+[Archivos Principales](parte1.md)
